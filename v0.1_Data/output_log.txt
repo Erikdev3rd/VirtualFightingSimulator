@@ -1,0 +1,1131 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\erikg\OneDrive\Documents\UnityProjects\Darkfall\v0.1_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: The given HMD doesn't exist.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: The given HMD doesn't exist.
+Failed to create Oculus Session.Compositor failed to initialize.UnloadTime: 0.794880 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 261c -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.PauseGame (Boolean state) [0x00000] in <filename unknown>:0 
+  at UIManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.167042 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 322.
+Total: 0.241920 ms (FindLiveObjects: 0.018773 ms CreateObjectMapping: 0.020906 ms MarkObjects: 0.193706 ms  DeleteObjects: 0.007680 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698453 ms
+Unity v5.4.1f1, Oculus Utilities v1.7.0, OVRPlugin v1.7.0, SDK v0.0.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 488.
+Total: 0.356266 ms (FindLiveObjects: 0.058453 ms CreateObjectMapping: 0.025600 ms MarkObjects: 0.260693 ms  DeleteObjects: 0.011093 ms)
+
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceOutGuid(&s_ovrAudioOut) failed: The system or component has not been initialized.
+ovr_GetAudioDeviceInGuid(&s_ovrAudioIn) failed: The system or component has not been initialized.
