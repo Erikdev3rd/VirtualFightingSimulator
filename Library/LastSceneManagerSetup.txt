@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GUI/HordeModeMenu.unity
+- path: Assets/Scenes/World/Terrain/Wave1.unity
   isLoaded: 1
   isActive: 1

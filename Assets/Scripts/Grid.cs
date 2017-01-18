@@ -40,20 +40,19 @@ public class Grid : MonoBehaviour
 
     void Update()
     {
-        if(gameMode == "FollowerXXX") {
+        if(gameMode == "Follower") {
             //Called Once if no followers exist
             if (GameObject.Find("FollowerMob") == null)
             {
                 Debug.Log(waveNumber);
                 SaveLoad.SaveData(waveNumber, filePath);
-                Main();
+                CalculateFollowerSpawns();
                 waveNumber = waveNumber + 1;
                 displayScript.Refresh(filePath);
                 reAwake();
             }
         }
-        else if (gameMode == "Turn this Line <--Bk into else")
-        {
+        else if(gameMode == "Fighter") {
             //Called Once if no fighters exist
             if (GameObject.Find("FighterMob") == null)
             {
@@ -86,6 +85,17 @@ public class Grid : MonoBehaviour
         //Spawn n number of enemies based on current wave
         for (int i = 0; i < n; i++)
         {
+            //spawnSomething(2 * Random.Range(2 / 2, 18 / 2), 2 * Random.Range(2 / 2, 18 / 2), Random.Range(3, 10), Random.Range(1, 8), Random.Range(9, 15), Random.Range(0, 10), Random.Range(1, 3));
+        }
+    }
+
+    void CalculateFollowerSpawns()
+    {
+        float n = 1f + (waveNumber - 1f) * 1.2f;
+
+        //Spawn n number of enemies based on current wave
+        for (int i = 0; i < n; i++)
+        {
             spawnSomething(2 * Random.Range(2 / 2, 18 / 2), 2 * Random.Range(2 / 2, 18 / 2), Random.Range(3, 10), Random.Range(1, 8), Random.Range(9, 15), Random.Range(0, 10), Random.Range(1, 3));
         }
     }
@@ -106,7 +116,7 @@ public class Grid : MonoBehaviour
 
     void reAwake()
     {
-        for (var i = 0; i < grid.Length; i++)
+        for (var i = 0; i < grid.GetLength(0); i++)
         {
             for (var n = 0; n < 20; n++)
             {
@@ -145,15 +155,4 @@ public class Grid : MonoBehaviour
             }
         }
     }
-
-    /*public IEnumerator DoTheDance()
-    {
-        //Putting something [Right] Here is called before waiting seconds
-        while (true)
-        {
-            Awake();
-            yield return null; //wait for a frame
-            yield return new WaitForSeconds(2f);
-        }
-    }*/
 }

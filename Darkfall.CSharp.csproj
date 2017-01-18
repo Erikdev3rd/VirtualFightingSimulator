@@ -170,12 +170,14 @@
     <Compile Include="Assets\Scripts\Grid.cs" />
     <Compile Include="Assets\Scripts\GridLocation.cs" />
     <Compile Include="Assets\Scripts\IgnoreCollision.cs" />
+    <Compile Include="Assets\Scripts\ImportSword.cs" />
     <Compile Include="Assets\Scripts\ObjectHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\SaveLoad.cs" />
     <Compile Include="Assets\Scripts\SaveLoadExample.cs" />
     <Compile Include="Assets\Scripts\ShowCursor.cs" />
     <Compile Include="Assets\Scripts\SpawnFollowers.cs" />
+    <Compile Include="Assets\Scripts\TouchController.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\newGame.cs" />
   </ItemGroup>
